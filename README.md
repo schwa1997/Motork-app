@@ -2,7 +2,7 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Open [http://localhost:3000]([http://localhost:3000](https://motor-k-4zpn.vercel.app/)) with your browser to see this mini project for the front-end internship interview.
+Open [this link](https://motor-k-4zpn.vercel.app/) with your browser to see this mini project for the front-end internship interview.
 
 ## Getting Started
 
