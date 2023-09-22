@@ -1,21 +1,8 @@
-# Next.js Project
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-Open [this link](https://motor-k-4zpn.vercel.app/) with your browser to see this mini project for the front-end internship interview.
 
 ## Getting Started
 
-First, download the project dependencies using one of the following commands:
-
-```bash
-npm install
-# or
-yarn install
-# or
-pnpm install
-```
-Secondly, run the development server:
+First, run the development server:
 
 ```bash
 npm run dev
@@ -26,4 +13,18 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Project Details
+
+This project is built for: Front-End Engineering Internship Test: Automotive Commerce App
+
+#### Goal
+Build a simple front-end application that lists car models available for sale, allowing users to
+search for specific models, and view details of each model.
+
+#### Features
+1. A List: Display a list of car models with basic details like make, model, price.
+2. A Search Bar: Enable users to search for cars by make or model.
+3. A Detail Page: Clicking on a car should open a detail page with more information like
+description, features, mileage.
 
